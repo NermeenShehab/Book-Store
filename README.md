@@ -21,7 +21,7 @@ npm run lint
 ```
 
 
-### Fitch Api
+### Fetch Api
 ```
 npm run db:server
 ```
